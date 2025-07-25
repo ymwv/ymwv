@@ -8,7 +8,7 @@
 ## Hi there 👋
 
 Hi, I'm Jerry. 
-- 📫 How to reach me: 286537110@qq.com  
+- 📫 How to reach me: 286537110@qq.com
 <details>
 <summary>My top languages</summary>
   
