@@ -19,9 +19,10 @@ Hi, I'm Jerry.
 |     3|    python     |
 </details>
 
+<!--
 ---
 > QUOTE
-
+-->
 
 <!--
 **ymwv/ymwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
